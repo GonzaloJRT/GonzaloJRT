@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## soy estudiante de desarallo y gestion de sotfware de ingeneria  
+## soy estudiante de desarrollo y gestion de sotfware de ingeneria  
 
 - 👨‍💻 Actualmente estoy estudiando en la universidad tecnologica de
 - la tierra caliente y cree mi primer pagina para una secundaria
