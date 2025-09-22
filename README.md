@@ -64,7 +64,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="40" width="40" /></a>
+<a href="https://www.instagram.com/gonzalort04?igsh=N2x6MHFzbHMyYmxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="40" width="40" /></a>
 <a href="https://web.facebook.com/jose.rojas.971988"> <img align="center" alt="Gonzalo Josse | Facebook" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" /></a>
   
 <a href="https://www.youtube.com/@gonzalo-ob9hz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="" height="40" width="40">
